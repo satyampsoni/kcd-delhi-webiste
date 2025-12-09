@@ -20,7 +20,7 @@ export default function Sponsors() {
                     </p>
 
                     <Link 
-                        href="/sponsorship"
+                        href="/sponsorship.html"
                         className="inline-block bg-[#e2e8f0] hover:bg-white text-[#0f172a] font-bold py-4 px-10 rounded-full transition-all duration-300 shadow-lg hover:shadow-xl text-lg md:text-xl transform hover:-translate-y-1"
                     >
                         Check Sponsorship Opportunities

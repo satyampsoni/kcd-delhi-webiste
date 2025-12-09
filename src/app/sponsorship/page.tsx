@@ -124,7 +124,7 @@ export default function SponsorshipPage() {
                                 Download Sponsorship Prospectus
                             </h2>
                             <p className="text-xl text-gray-200 mb-8 max-w-2xl mx-auto">
-                                Get detailed information about sponsorship packages, pricing, and how to become a sponsor at KCD Delhi 2025.
+                                Get detailed information about sponsorship packages, pricing, and how to become a sponsor at KCD Delhi 2026.
                             </p>
                             
                             <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -138,8 +138,9 @@ export default function SponsorshipPage() {
                                 </a>
                                 
                                 <a 
-                                    href="mailto:sponsors@kcddelhi.com"
+                                    href="mailto:contact@kcddelhi.com?subject=KCD Delhi 2026 Sponsorship Inquiry"
                                     className="inline-flex items-center gap-3 bg-transparent border-2 border-white text-white font-bold py-4 px-8 rounded-full hover:bg-white hover:text-[#172B4C] transition-all duration-300 shadow-lg hover:shadow-xl text-lg transform hover:-translate-y-1"
+                                    title="Send email to contact@kcddelhi.com"
                                 >
                                     Contact Us
                                 </a>
@@ -147,7 +148,7 @@ export default function SponsorshipPage() {
 
                             <div className="mt-8 p-6 bg-white/10 rounded-lg border border-gray-300/20">
                                 <p className="text-gray-200 text-sm mb-2">
-                                    <strong>For inquiries, contact:</strong>
+                                    <strong>For inquiries, contact: </strong>
                                 </p>
                                 <p className="text-gray-300 text-sm">
                                     Email: contact@kcddelhi.com <br/>
